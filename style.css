@@ -1,0 +1,83 @@
+.fbExtraIcons{
+	background-color:#edeff4;
+	margin-top:5px;
+	margin-right: 18px;
+	padding:2px;
+	color:#5670a1;
+}
+ul.fbei_icons{
+	margin-top:-1px;
+	list-style-type:none;
+}
+ul.fbei_icons li{
+	padding-left:25px;
+	padding-right:25px;
+	padding-bottom:20px;
+	background-repeat:no-repeat;
+	display: inline;
+	cursor:pointer;
+}
+
+#fbei_dislike{
+	background-image:url(chrome-extension://iapnjoadnbjmmhdbfjlkolmkjoenildi/images/des_dislike.png);
+}
+#fbei_dislike:hover{
+	background-image:url(chrome-extension://iapnjoadnbjmmhdbfjlkolmkjoenildi/images/dislike.png);
+}
+#fbei_fuck{
+	background-image:url(chrome-extension://iapnjoadnbjmmhdbfjlkolmkjoenildi/images/des_fuck.png);
+}
+#fbei_fuck:hover{
+	background-image:url(chrome-extension://iapnjoadnbjmmhdbfjlkolmkjoenildi/images/fuck.png);
+}
+#fbei_geek{
+	background-image:url(chrome-extension://iapnjoadnbjmmhdbfjlkolmkjoenildi/images/des_geek.png);
+}
+#fbei_geek:hover{
+	background-image:url(chrome-extension://iapnjoadnbjmmhdbfjlkolmkjoenildi/images/geek.png);
+}
+#fbei_hi5{
+	background-image:url(chrome-extension://iapnjoadnbjmmhdbfjlkolmkjoenildi/images/des_hi5.png);
+}
+#fbei_hi5:hover{
+	background-image:url(chrome-extension://iapnjoadnbjmmhdbfjlkolmkjoenildi/images/hi5.png);
+}
+#fbei_loser{
+	background-image:url(chrome-extension://iapnjoadnbjmmhdbfjlkolmkjoenildi/images/des_loser.png);
+}
+#fbei_loser:hover{
+	background-image:url(chrome-extension://iapnjoadnbjmmhdbfjlkolmkjoenildi/images/loser.png);
+}
+#fbei_love{
+	background-image:url(chrome-extension://iapnjoadnbjmmhdbfjlkolmkjoenildi/images/des_love.png);
+}
+#fbei_love:hover{
+	background-image:url(chrome-extension://iapnjoadnbjmmhdbfjlkolmkjoenildi/images/love.png);
+}
+#fbei_ok{
+	background-image:url(chrome-extension://iapnjoadnbjmmhdbfjlkolmkjoenildi/images/des_ok.png);
+}
+#fbei_ok:hover{
+	background-image:url(chrome-extension://iapnjoadnbjmmhdbfjlkolmkjoenildi/images/ok.png);
+}
+#fbei_rock{
+	background-image:url(chrome-extension://iapnjoadnbjmmhdbfjlkolmkjoenildi/images/des_rock.png);
+}
+#fbei_rock:hover{
+	background-image:url(chrome-extension://iapnjoadnbjmmhdbfjlkolmkjoenildi/images/rock.png);
+}
+#fbei_support{
+	background-image:url(chrome-extension://iapnjoadnbjmmhdbfjlkolmkjoenildi/images/des_support.png);
+}
+#fbei_support:hover{
+	background-image:url(chrome-extension://iapnjoadnbjmmhdbfjlkolmkjoenildi/images/support.png);
+}
+
+.counter{
+	color:#FFF;
+	border-radius: 5px;
+	position:absolute;
+	margin-top: 30px;
+	padding:5px;
+	background-color:#039;
+}

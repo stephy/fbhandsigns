@@ -1,0 +1,13 @@
+{
+  "name": "Facebook Hand Signs",
+  "version": "1.0",
+  "description": "Ever wished you could just give that status the finger? Now you can!",
+  "content_scripts": [
+      {
+        "matches": ["http://www.facebook.com/*"],
+        "css": ["style.css"],
+        "js": ["jquery-1.6.4.min.js", "script.js"]
+      }
+    ]
+}
+
